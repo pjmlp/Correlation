@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrelationCalculator", "CorrelationCalculator\CorrelationCalculator.csproj", "{07873E6F-720F-4A2A-A63D-A367FD034925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrelationCalculator.Tests", "CorrelationCalculator.Tests\CorrelationCalculator.Tests.csproj", "{84D1D609-14A7-42D3-827F-7F65087B7B10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{382EFAB4-7640-434E-A186-40BD1C613F81}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07873E6F-720F-4A2A-A63D-A367FD034925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07873E6F-720F-4A2A-A63D-A367FD034925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07873E6F-720F-4A2A-A63D-A367FD034925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07873E6F-720F-4A2A-A63D-A367FD034925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D1D609-14A7-42D3-827F-7F65087B7B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D1D609-14A7-42D3-827F-7F65087B7B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D1D609-14A7-42D3-827F-7F65087B7B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D1D609-14A7-42D3-827F-7F65087B7B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E48C17E-6B8C-4152-92CC-AC645E8E82E7}
+	EndGlobalSection
+EndGlobal
